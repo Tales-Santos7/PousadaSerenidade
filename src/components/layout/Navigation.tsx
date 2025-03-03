@@ -16,7 +16,7 @@ export function Navigation() {
       </div>
       
       <button className="md:hidden text-white">
-        <Menu size={24} />
+        <Menu size={30} />
       </button>
     </nav>
   );
