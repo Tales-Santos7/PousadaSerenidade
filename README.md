@@ -1,19 +1,6 @@
 # Pousada Serenidade
 
-Bem-vindo ao repositório do site da **Pousada Serenidade**. Este projeto foi desenvolvido com **TypeScript**, **React**, **Tailwind CSS** e **Vite** para oferecer uma experiência moderna e responsiva.
-
-## 🚀 Tecnologias Utilizadas
-- **React** - Biblioteca para construção de interfaces dinâmicas
-- **TypeScript** - Superset do JavaScript para melhor tipagem e manutenção
-- **Tailwind CSS** - Framework de estilos utilitário
-- **Vite** - Ferramenta para desenvolvimento e build rápido
-
-## 📌 Funcionalidades
-- Apresentação da pousada com imagens e descrições
-- Lista de acomodações disponíveis
-- Seção de experiências exclusivas
-- Depoimentos de hóspedes
-- Formulário de contato
+Bem-vindo ao repositório do site da **Pousada Serenidade**. Este projeto foi desenvolvido para oferecer uma experiência moderna e responsiva.
 
 ## Visão geral
 
@@ -23,7 +10,15 @@ Bem-vindo ao repositório do site da **Pousada Serenidade**. Este projeto foi de
 
 ### Links
 
-- URL do site ativo: [🛜Projeto ativo aqui💻](https://pousada-serenidade.vercel.app/) 
+- URL do site ativo: [🛜Projeto ativo aqui💻](https://pousada-serenidade.vercel.app/)
+
+  ## 📌 Funcionalidades
+  
+- Apresentação da pousada com imagens e descrições
+- Lista de acomodações disponíveis
+- Seção de experiências exclusivas
+- Depoimentos de hóspedes
+- Formulário de contato
 
 ### Construído com
 
@@ -48,6 +43,8 @@ Bem-vindo ao repositório do site da **Pousada Serenidade**. Este projeto foi de
 ### Minhas redes sociais!
 
 <div> 
-  <a href="https://instagram.com/tales.s7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/tales.s7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tales-santos7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:tales.js07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://talessantos-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-Ffa500?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
 </div>
