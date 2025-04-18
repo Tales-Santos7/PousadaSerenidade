@@ -6,7 +6,7 @@ Bem-vindo ao repositório do site da **Pousada Serenidade**. Este projeto foi de
 
 ### Captura do projeto
 
-[<img src="./pousadaGIF.gif" alt="gif da dela inicial do projeto 'Posada Serenidade'">]
+<img src="./pousadaGIF.gif" alt="gif da dela inicial do projeto 'Posada Serenidade'">
 
 ### Links
 
