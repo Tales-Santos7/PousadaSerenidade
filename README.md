@@ -14,19 +14,20 @@ Bem-vindo ao repositório do site da **Pousada Serenidade**. Este projeto foi de
 
   ## 📌 Funcionalidades
   
-- Apresentação da pousada com imagens e descrições
-- Lista de acomodações disponíveis
-- Seção de experiências exclusivas
-- Depoimentos de hóspedes
-- Formulário de contato
+- Apresentação da pousada com imagens e descrições;
+- Lista de acomodações disponíveis;
+- Seção de experiências exclusivas;
+- Depoimentos de hóspedes;
+- Formulário de contato.
 
 ### Construído com
 
 <div style="display: inline_block"><br>
-- TypeScript<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><br><br>
-- React<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br><br>
-- Tailwind<img align="center" alt="Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"><br><br>
-- Vite<img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"><br><br>
+<img title="JavaScript" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
+<img title="TypeScript" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript">
+<img title="ReactJS" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=react" alt="ReactJS">
+<img title="TailwindCSS" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS">
+<img title="Vite" align="center" height="40" width="40" src="https://skillicons.dev/icons?i=vite" alt="Vite">
 </div>
 
 ### 📚 O que eu aprendi
