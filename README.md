@@ -1,6 +1,7 @@
 # Pousada Serenidade
 
-Bem-vindo ao repositório do site da **Pousada Serenidade**. Este projeto foi desenvolvido para oferecer uma experiência moderna e responsiva.
+Um projeto pessoal, feito com React/TailwindCSS para demonstrar minhas habilidades em React. Desenvolvi uma interface moderna e responsiva, com foco em usabilidade e design minimalista.
+O projeto inclui componentes reutilizáveis, navegação fluida e boas práticas de desenvolvimento front-end (Back-end em breve).
 
 ## Visão geral
 
